@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: Liheng's blog
 ---
-
-Hi!
+Welcome!

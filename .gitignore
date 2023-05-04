@@ -1,3 +1,6 @@
+# used only for local dev (preview changes), GH Actions will build and deploy the actual site for me
+_site
+
 # Compiled source #
 ###################
 *.com
