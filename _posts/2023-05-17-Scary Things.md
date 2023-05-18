@@ -1,8 +1,3 @@
----
-title: Scary Things
-date: 2024-05-03
----
-
 I like this [blog post](https://amid.fish/getting-better-at-scary-things) about "getting better at scary things."
 
 ## Note to self
