@@ -1,5 +1,5 @@
 ---
-title: "Getting Jekyll to Work Locally"
+title: Getting Jekyll to Work Locally
 date: 2024-05-03
 ---
 Having GitHub handle the build/deployment of this blog was cool. However, I realized that relying entirely on GH means that I'd have a slow turnaround when developing, not to mention clogging up my commit history and not learning the basics of how Jekyll works. 
@@ -17,3 +17,9 @@ I then tried adding the `github-pages` ruby gem to get the styling to work, but 
 I also changed some of the boilerplate title and footers.
 
 Pretty funny how my initial posts on this blog were about setting up the blog and the "challenges" I faced when doing it. 
+
+## Command to run
+(mainly so I don't forget)
+```
+bundle exec jekyll serve
+```
