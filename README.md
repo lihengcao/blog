@@ -1,1 +1,2 @@
-Copied from https://github.com/skills/github-pages
+# Blog
+Using my own static site generator: https://github.com/lihengcao/static-site-generator
