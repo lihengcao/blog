@@ -1,0 +1,4 @@
+[submodule "static-site-generator"]
+	path = static-site-generator
+	url = https://github.com/lihengcao/static-site-generator
+	branch = main
