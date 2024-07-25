@@ -1,3 +1,5 @@
+# GitHub Pages
+
 Having GitHub handle the build/deployment of this blog was cool. However, I realized that relying entirely on GH means that I'd have a slow turnaround when developing, not to mention clogging up my commit history and not learning the basics of how Jekyll works.
 
 Some of the things I tried include:

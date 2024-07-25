@@ -1,3 +1,5 @@
+# Scary Things
+
 I like this [blog post](https://amid.fish/getting-better-at-scary-things) about "getting better at scary things."
 
 ## Note to self
