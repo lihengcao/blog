@@ -1,2 +1,3 @@
+#!/bin/bash
 # surprisingly number of times I had to look this up...
 git pull --recurse-submodules
