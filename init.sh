@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-git submodule init && git submodule update
+git submodule update --init --remote
 
-# echo "reattaching submodule HEAD"
-# cd static-site-generator
-# git switch main
-# cd ..
+echo "reattaching submodule HEAD"
+cd static-site-generator
+git switch main
+cd ..
