@@ -1,2 +1,2 @@
 #!/bin/bash
-source static-site-generator/main.py -i ./posts/ -o ./docs/
+python3 static-site-generator/main.py -i ./posts/ -o ./docs/
