@@ -3,3 +3,6 @@
 # Then fixed detached HEAD issue
 git submodule init
 git pull --recurse-submodules --rebase
+cd static-site-generator
+git switch main
+cd ..
