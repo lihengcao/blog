@@ -1,5 +1,3 @@
-# My own blog
-
 I didn't like Jekyll that much. It has a lot of customization options, but I just needed something simple.
 
 Eventually, almost embarassingly late, I had the realization that many programs just loop over everything. There's not some elegant symbolic solution. It's just a loop that manually[1] goes over everything and does what needs to be done.

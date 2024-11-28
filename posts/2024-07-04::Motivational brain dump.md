@@ -1,5 +1,3 @@
-# Motivational brain dump
-
 This is a brain dump of some motivational phrases and tactics.
 
 ## 10 minute rule
