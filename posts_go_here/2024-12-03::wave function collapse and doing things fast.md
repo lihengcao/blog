@@ -8,7 +8,7 @@ How does this relate with productivity and self help? When you take an action, y
 
 [^1]: explanation here
 
-* self-help: bed rotting, taking action
-* productivity: procrastination
-* game dev: precedural map generation
-* physics: quantum stuff
+- self-help: bed rotting, taking action
+- productivity: procrastination
+- game dev: precedural map generation
+- physics: quantum stuff

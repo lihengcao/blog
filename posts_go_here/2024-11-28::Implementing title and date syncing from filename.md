@@ -1,8 +1,11 @@
 ## RE my static site generator
+
 Previously, the title in the filename (that shows up on the homepage/index) and the title in the actual post were two separate pieces of data. If I want them to be consistent, I had to manually make sure they were the same. Now, I updated the [static site generator (self plug)](https://github.com/lihengcao/static-site-generator/) to use the filename as the source of truth and "inject" the title and date into the content before it gets converted to html.
 
 ## Implementation
+
 Initially, I processed the file and then rewrote it, but there's some issues with multiple titles. For example, if I change the title, it would be difficult to replace the original title as opposed to adding a new title [^1]. We need to occasionally add a title because I want the title to automatically sync over, and it had to be written to the file because the markdown library operates based on an input file. However, by random chance, I looked at which functions my markdown to html converter library exported, and I saw that they also have a version that works based on str input instead of being given an input path file. This way, I will generate the synced information every time without modifying my original input, so there's no issues with writing this information to the file.
 
 ## Footnotes
+
 [^1]: Though, now that I think about this, maybe I could've done something with markdown comments.
