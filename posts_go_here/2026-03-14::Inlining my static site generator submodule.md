@@ -1,0 +1,3 @@
+To generate this blog, I use a static site generator. I initially used Jekyll (probably a GitHub pre configured version), but just for a challenge/learning, I switched to writing my own (simple) static site generator @ [github.com/lihengcao/static-site-generator](https://github.com/lihengcao/static-site-generator). I "imported" it using git submodules.
+
+I just switched to a "monorepo" style setup by "inlining" the module (it was just a single Python file along with some some setup scripts and a `requirements.txt`) directly in the blog module. Honestly, submodules had their downsides, especially for my simple use case, so this should make doing stuff here easier.
